@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T22:25:22.068Z" agent="5.0 (Windows)" etag="HQ1Og7vr9k8KzGhs8TZM" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T22:55:08.545Z" agent="5.0 (Windows)" etag="ne_eEOVO5-dNVWVSQ8Jp" version="13.9.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1526" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
             <mxPoint x="460" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-3" value="In what ways can each value be attacked or disrupted?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-3" value="In what ways can the components be attacked or disrupted?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="325" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N-l9Ip9BLISeZyFP3_Ce-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N-l9Ip9BLISeZyFP3_Ce-1" target="N-l9Ip9BLISeZyFP3_Ce-24">
@@ -25,14 +25,14 @@
             <mxPoint x="430" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-7" value="&lt;div&gt;How is product made?&lt;/div&gt;&lt;div&gt;How is service provided?&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-7" value="&lt;div&gt;Product Created&lt;/div&gt;&lt;div&gt;Service Provided&lt;/div&gt;&lt;div&gt;Data Collected&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="60" width="206" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N-l9Ip9BLISeZyFP3_Ce-8" value="&lt;div&gt;Supply Chain Issues&lt;/div&gt;&lt;div&gt;Data Manipulation&lt;/div&gt;&lt;div&gt;Theft of IP&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="325" width="206" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N-l9Ip9BLISeZyFP3_Ce-9" value="&lt;div&gt;Determine:&lt;/div&gt;&lt;div&gt;&lt;b&gt;Likelihood&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Impact &lt;/b&gt;for each Threat&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="470" width="80" height="80" as="geometry" />
+          <mxGeometry x="220" y="456" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N-l9Ip9BLISeZyFP3_Ce-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N-l9Ip9BLISeZyFP3_Ce-3" target="N-l9Ip9BLISeZyFP3_Ce-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N-l9Ip9BLISeZyFP3_Ce-11" value="&lt;div&gt;Threat&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Likelihood&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Impact&lt;br&gt;&lt;/div&gt;&lt;div&gt;Supply Chain Issues&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 5&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 5&lt;br&gt;&lt;/div&gt;&lt;div&gt;Data Manipulation&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 9&lt;br&gt;&lt;/div&gt;&lt;div&gt;Theft of IP&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 9&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="470" width="306" height="110" as="geometry" />
+          <mxGeometry x="354" y="456" width="306" height="110" as="geometry" />
         </mxCell>
         <mxCell id="N-l9Ip9BLISeZyFP3_Ce-18" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N-l9Ip9BLISeZyFP3_Ce-1" target="N-l9Ip9BLISeZyFP3_Ce-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -57,11 +57,11 @@
         </mxCell>
         <mxCell id="N-l9Ip9BLISeZyFP3_Ce-22" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="509.5" as="sourcePoint" />
-            <mxPoint x="354" y="509.5" as="targetPoint" />
+            <mxPoint x="300" y="495.5" as="sourcePoint" />
+            <mxPoint x="354" y="495.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-24" value="What " style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-24" value="What are the critical components? " style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N-l9Ip9BLISeZyFP3_Ce-26" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -74,6 +74,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="259.5" y="270" as="sourcePoint" />
             <mxPoint x="259.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-28" value="&lt;div&gt;Raw Materials&lt;/div&gt;&lt;div&gt;Analysis Algorithms&lt;/div&gt;&lt;div&gt;Customer Data&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="190" width="206" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-29" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="229.5" as="sourcePoint" />
+            <mxPoint x="354" y="229.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
