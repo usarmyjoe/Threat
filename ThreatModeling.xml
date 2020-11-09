@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T20:12:41.632Z" agent="5.0 (Windows)" etag="bX23MM6EnGeWK0e_wdiy" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T22:08:40.522Z" agent="5.0 (Windows)" etag="dq1zIhNRyUepV6fcpRAY" version="13.9.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1526" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N-l9Ip9BLISeZyFP3_Ce-1" value="How does the business derive value" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="60" width="80" height="80" as="geometry" />
+          <mxGeometry x="220" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N-l9Ip9BLISeZyFP3_Ce-2" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N-l9Ip9BLISeZyFP3_Ce-0" target="N-l9Ip9BLISeZyFP3_Ce-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -16,8 +16,50 @@
             <mxPoint x="460" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="200" width="80" height="80" as="geometry" />
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-3" value="In what ways can each value be attacked or disrupted?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N-l9Ip9BLISeZyFP3_Ce-1" target="N-l9Ip9BLISeZyFP3_Ce-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="340" as="sourcePoint" />
+            <mxPoint x="430" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-7" value="&lt;div&gt;How is product made?&lt;/div&gt;&lt;div&gt;How is service provided?&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-8" value="&lt;div&gt;Supply Chain Issues&lt;/div&gt;&lt;div&gt;Data Manipulation&lt;/div&gt;&lt;div&gt;Theft of IP&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-9" value="&lt;div&gt;Determine:&lt;/div&gt;&lt;div&gt;Likelihood&lt;/div&gt;&lt;div&gt;Impact for each Threat&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N-l9Ip9BLISeZyFP3_Ce-3" target="N-l9Ip9BLISeZyFP3_Ce-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="360" as="sourcePoint" />
+            <mxPoint x="300" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-11" value="&lt;div&gt;Threat&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Likelihood&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Impact&lt;br&gt;&lt;/div&gt;&lt;div&gt;Supply Chain Issues&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 5&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 5&lt;br&gt;&lt;/div&gt;&lt;div&gt;Data Manipulation&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 9&lt;br&gt;&lt;/div&gt;&lt;div&gt;Theft of IP&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 9&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="360" width="306" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-18" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N-l9Ip9BLISeZyFP3_Ce-1" target="N-l9Ip9BLISeZyFP3_Ce-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="130" as="sourcePoint" />
+            <mxPoint x="350" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-21" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="249.5" as="sourcePoint" />
+            <mxPoint x="354" y="249.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-l9Ip9BLISeZyFP3_Ce-22" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="399.5" as="sourcePoint" />
+            <mxPoint x="354" y="399.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
